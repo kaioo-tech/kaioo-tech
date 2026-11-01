@@ -1,5 +1,6 @@
 <!-- ===================================================== --><!--                   KAIO • GITHUB README                --><!-- ===================================================== --><p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&text=KAIO&fontSize=85&fontAlignY=38&desc=SYSTEM%20INITIALIZING%20%E2%80%A2%20WELCOME%20TO%20MY%20DIGITAL%20WORLD&descAlignY=60&descSize=16&animation=fadeIn&color=0:000000,50:0d1117,100:1f2937&fontColor=ffffff" />
+<p align="center">
+  <img width="100%" src="./download%20(1).jpg" alt="Kaio banner">
 </p><p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=18&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=700&lines=%5B+SYSTEM+BOOTING...+%5D;%E2%9C%93+Identity%3A+KAIO;%E2%9C%93+Status%3A+ONLINE;%E2%9C%93+Mission%3A+BUILDING+THE+FUTURE+WITH+TECHNOLOGY;%3E_+Welcome+to+my+GitHub+profile." />
 </p><br />⚡ KAIO // DIGITAL PROFILE
