@@ -11,7 +11,12 @@
 ├──────────────────────────────────────────────────────────────┤
 │ USER        : KAIO                                           │
 │ LOCATION    : BRAZIL 🇧🇷                                      │
-│ ROLE        : STUDENT / ASPIRING DEVELOPER
+│ ROLE        : STUDENT / ASPIRING DEVELOPER                   │
+│ STATUS      : ONLINE                                         │
+│                                                              │
+│ MISSION                                                      │
+│ BUILD • LEARN • EVOLVE                                       │
+└──────────────────────────────────────────────────────────────┘
 ``
 ---
 
