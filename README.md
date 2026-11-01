@@ -191,7 +191,10 @@ profile:
 <h2 align="center">⟦ 08 · ACHIEVEMENTS ⟧</h2>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&row=1" alt="GitHub Trophies" />
+
+<div align="center">
+<img src="https://img.shields.io/badge/PROFILE%20README-CREATED-0D1117?style=for-the-badge&labelColor=0D1117&color=FF2A2A" alt="Profile README created" />
+<img src="https://img.shields.io/badge/PROJECTS-2%20PUBLISHED-0D1117?style=for-the-badge&labelColor=0D1117&color=B30000" alt="2 projects published" />
 </div>
 
 <br/>
