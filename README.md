@@ -121,7 +121,7 @@ profile:
 <table>
 <tr>
 <td align="center">
-  <a href="https://github.com/kaioo-tech/Landing-Page">
+  <a href="https://github.com/kaioo-tech/LandingPage">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaioo-tech&repo=Landing-Page&theme=transparent&bg_color=0D1117&title_color=FF4D4D&text_color=C9D1D9&icon_color=FF2A2A&border_color=FF2A2A&show_owner=false" alt="Landing Page" />
   </a>
 </td>
