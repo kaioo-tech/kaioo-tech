@@ -17,9 +17,7 @@
 <div align="center">
 
 <!-- ═════════════ BANNER (your image) ═════════════ -->
-<p align="center">
-  <img width="100%" height="180" src="./"download (3).jpg alt="Kaio banner">
-</p>
+<img src="./assets/download (3).jpg" width="800" height="300" alt="Banner" />
 
 <br/>
 
