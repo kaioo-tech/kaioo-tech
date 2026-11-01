@@ -187,7 +187,7 @@ profile:
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&bg_color=0D1117&color=FF4D4D&line=FF2A2A&point=FFFFFF&area=true&area_color=B30000&hide_border=true&radius=10&custom_title=Contribution%20Graph" alt="Activity Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kaioo-tech&bg_color=0D1117&color=FF4D4D&line=FF2A2A&point=FFFFFF&area=true&area_color=B30000&hide_border=true&radius=10&custom_title=Contribution%20Graph" alt="Activity Graph" />
 
 <br/>
 <sub>📈 Empty at first? Totally normal. Every commit makes it grow.</sub>
