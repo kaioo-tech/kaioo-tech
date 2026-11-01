@@ -52,7 +52,7 @@
 
 ```yaml
 profile:
-  name:     "YOUR NAME"
+  name:     "Kaio Samuel"
   role:     "Student & beginner programmer"
   country:  "Brazil 🇧🇷"
   learning: ["Python", "Git & GitHub", "English", "Math"]
@@ -260,6 +260,6 @@ One commit at a time.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2A2A,50:7A0000,100:0D1117&height=140&section=footer&text=%C2%AB%20SYSTEM%20ONLINE%20%C2%BB&fontSize=22&fontColor=FFFFFF&animation=fadeIn&fontAlignY=72" width="100%" alt="Footer" />
 
-<sub>⚡ Made with code, coffee and curiosity • © 2026 YOUR NAME</sub>
+<sub>⚡ Made with code, coffee and curiosity • © 2026 Kaio Samuel</sub>
 
 </div>
