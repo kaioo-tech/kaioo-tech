@@ -4,7 +4,7 @@
 ║  1. Replace YOUR-USERNAME with your GitHub username          ║
 ║  2. Replace YOUR NAME with your first name (or nickname)     ║
 ║  3. Create a folder called "assets" in this repo and upload  ║
-║     your banner image as: assets/banner.png                  ║
+║     your banner image as: assets/banner.png                 ║
 ║  4. Replace PROJECT-1..4 with your real repo names           ║
 ╚══════════════════════════════════════════════════════════════╝
 -->
