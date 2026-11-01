@@ -50,14 +50,14 @@
 <tr>
 <td width="62%" valign="top">
 
-```yaml
-profile:
-  name:     "Kaio Samuel"
-  role:     "Student & beginner programmer"
-  country:  "Brazil 🇧🇷"
-  learning: ["Python", "Git & GitHub", "English", "Math"]
-  goal:     "Study Computer Science in the USA"
-  motto:    "Learn → Build → Share"
+```diff
+- profile:
+-  name:     "Kaio Samuel"
+-  role:     "Student & beginner programmer"
+-  country:  "Brazil 🇧🇷"
+-  learning: ["Python", "Git & GitHub", "English", "Math"]
+-  goal:     "Study Computer Science in the USA"
+-  motto:    "Learn → Build → Share"
 ```
 
 </td>
