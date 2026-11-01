@@ -28,7 +28,7 @@
 
 <!-- ═════════════ TYPING ANIMATION ═════════════ -->
 <a href="https://github.com/Kaio Samuel">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3200&pause=900&color=FF4D4D&center=true&vCenter=true&width=760&height=60&lines=%3E+Hi%2C+I'm+KaioSamuel;%3E+Student+%7C+Python+Learner;%3E+Learning+to+code+every+day+%F0%9F%92%BB;%3E+Future+Computer+Science+student+%F0%9F%8E%93" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3200&pause=900&color=FF4D4D&center=true&vCenter=true&width=760&height=60&lines=%3E+Hi%2C+I'm+Kaio;%3E+Student+%7C+Python+Learner;%3E+Learning+to+code+every+day+%F0%9F%92%BB;%3E+Future+Computer+Science+student+%F0%9F%8E%93" alt="Typing animation" />
 </a>
 
 <br/>
