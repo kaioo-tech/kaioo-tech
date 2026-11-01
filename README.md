@@ -1,4 +1,3 @@
-👋 Hey, I'm Kaio
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=KAIO&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Developer&descAlignY=60&descSize=18"/>About me
 
