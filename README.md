@@ -172,34 +172,21 @@ profile:
 <h2 align="center">⟦ 07 · GITHUB_STATS ⟧</h2>
 
 <div align="center">
-<table>
-<tr>
-<td align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=false&include_all_commits=true&theme=transparent&bg_color=0D1117&title_color=FF4D4D&text_color=C9D1D9&icon_color=FF2A2A&ring_color=FF2A2A&border_color=FF2A2A&rank_icon=github" alt="GitHub Stats" />
-</td>
-<td align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaioo-tech&layout=compact&langs_count=6&hide_border=false&theme=transparent&bg_color=0D1117&title_color=FF4D4D&text_color=C9D1D9&border_color=B30000" alt="Top Languages" />
-</td>
-</tr>
-</table>
 
-<img width="100%" src="https://streak-stats.demolab.com/?user=YOUR-USERNAME&theme=transparent&background=0D1117&border=FF2A2A&stroke=B30000&ring=FF2A2A&fire=FF5C5C&currStreakNum=FF4D4D&sideNums=FFFFFF&currStreakLabel=FF4D4D&sideLabels=C9D1D9&dates=8B949E&hide_border=false" alt="GitHub Streak" />
+<a href="https://github.com/kaioo-tech">
+  <img src="https://img.shields.io/github/followers/kaioo-tech?style=for-the-badge&logo=github&logoColor=FF5C5C&labelColor=0D1117&color=FF2A2A" alt="Followers" />
+</a>
 
 <br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kaioo-tech&bg_color=0D1117&color=FF4D4D&line=FF2A2A&point=FFFFFF&area=true&area_color=B30000&hide_border=true&radius=10&custom_title=Contribution%20Graph" alt="Activity Graph" />
-
-<br/>
-<sub>📈 Empty at first? Totally normal. Every commit makes it grow.</sub>
+<sub>📈 More stats coming soon. Every commit makes it grow.</sub>
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7A0000,100:FF2A2A&height=2" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2A2A,100:7A0000&height=2" width="100%" alt="" />
 </div>
-
 <!-- ═════════════ TROPHIES ═════════════ -->
 <h2 align="center">⟦ 08 · ACHIEVEMENTS ⟧</h2>
 
