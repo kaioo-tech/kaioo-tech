@@ -178,7 +178,7 @@ profile:
   <img height="195" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=false&include_all_commits=true&theme=transparent&bg_color=0D1117&title_color=FF4D4D&text_color=C9D1D9&icon_color=FF2A2A&ring_color=FF2A2A&border_color=FF2A2A&rank_icon=github" alt="GitHub Stats" />
 </td>
 <td align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&langs_count=6&hide_border=false&theme=transparent&bg_color=0D1117&title_color=FF4D4D&text_color=C9D1D9&border_color=B30000" alt="Top Languages" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaioo-tech&layout=compact&langs_count=6&hide_border=false&theme=transparent&bg_color=0D1117&title_color=FF4D4D&text_color=C9D1D9&border_color=B30000" alt="Top Languages" />
 </td>
 </tr>
 </table>
