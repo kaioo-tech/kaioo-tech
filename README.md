@@ -17,7 +17,7 @@
 <div align="center">
 
 <!-- ═════════════ BANNER (your image) ═════════════ -->
-<img src="./assets/download (3).jpg" width="800" height="300" alt="Banner" />
+<img src="./assets/download (3).jpg" width="520" height="180" alt="Banner" />
 
 <br/>
 
