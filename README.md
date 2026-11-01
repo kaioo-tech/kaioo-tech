@@ -24,14 +24,14 @@ I'm a student from Brazil 🇧🇷 passionate about technology, programming and 
 
 I'm currently building my knowledge, creating projects and preparing for a future in technology.
 
-$ whoami
+ whoami
 
 > Student
 > Aspiring Software Developer
 > Future Computer Science Student
 > Technology Enthusiast
 
-$ mission
+ mission
 
 > Learn continuously.
 > Build meaningful projects.
@@ -103,7 +103,7 @@ $ cat objectives.txt
 [ ] Explore opportunities in technology
 [ ] Keep evolving every day
 
-$ system_status
+ system_status
 
 >>> PROGRESS IN MOTION...
 >>> NEVER STOP LEARNING.
