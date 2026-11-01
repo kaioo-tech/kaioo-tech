@@ -1,30 +1,36 @@
-<p align="center">
-  <img src="./download%20(1).jpg" width="100%" alt="Kaio Banner">
-</p><br>💻 AI TERMINAL
+<!-- ==================== BANNER ==================== --><div align="center"><img src="./download (1).jpg" width="100%" alt="Kaio's banner"/><br /><br />
 
-DEVELOPER CORE v1.0
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=SYSTEM+INITIALIZED.;WELCOME+TO+MY+DIGITAL+WORLD.;BUILD.+LEARN.+EVOLVE." alt="Typing SVG"/></div>---
 
-Loading profile...
+💻 AI TERMINAL
 
-████████████████████████ 100%
+┌──────────────────────────────────────────────────────────────────────┐
+│                         DEVELOPER CORE v1.0                          │
+├──────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  Loading profile... ████████████████████████████████████████ 100%   │
+│                                                                      │
+│  ✓ Developer Mode Active                                            │
+│  ✓ Creativity Engine Online                                         │
+│  ✓ Projects Loaded                                                  │
+│  ✓ Learning Mode Activated                                          │
+│                                                                      │
+│  STATUS: ONLINE 🟢                                                  │
+└──────────────────────────────────────────────────────────────────────┘
 
-✓ Developer Mode
-✓ Creativity Engine Online
-✓ Projects Loaded
-✓ Learning Mode Active
-✓ System Connected
+👨‍💻 About Me
 
-STATUS: ONLINE 🟢
+const kaio = {
 
-👤 About Me
-
-const developer = {
   name: "Kaio",
+
   username: "kaioo-tech",
+
   role: "Student / Aspiring Developer",
+
   country: "Brazil 🇧🇷",
 
-  focus: [
+  interests: [
     "Programming",
     "Technology",
     "Computer Science",
@@ -35,54 +41,77 @@ const developer = {
     "Python",
     "JavaScript",
     "Web Development"
-  ]
+  ],
+
+  mission: "Build. Learn. Evolve."
 };
 
-⚡ Current Mission
+⚡ CURRENT MISSION
 
-→ Building my programming knowledge
-→ Creating new projects
-→ Learning every day
-→ Preparing for Computer Science
+┌──────────────────────────────────────────────────────────────────────┐
+│                         MISSION CONTROL                              │
+├──────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  🎯 Building my programming knowledge                              │
+│  🚀 Creating new projects                                           │
+│  🧠 Learning something new every day                                │
+│  💻 Exploring Computer Science                                      │
+│                                                                      │
+│  STATUS: IN PROGRESS 📚                                             │
+└──────────────────────────────────────────────────────────────────────┘
 
-STATUS: IN PROGRESS 🚀
+🛠️ TECH STACK
 
-🛠️ Tech Stack
+<div align="center"><img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode" /></div><br />┌──────────────────────────────────────────────────────────────────────┐
+│                         CURRENT STACK                                │
+├──────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  LANGUAGES  → Python • JavaScript • HTML • CSS                      │
+│                                                                      │
+│  TOOLS      → VS Code • Git • GitHub                                │
+│                                                                      │
+│  STATUS     → EXPANDING...                                          │
+└──────────────────────────────────────────────────────────────────────┘
 
-LANGUAGES
-Python • HTML • CSS • JavaScript
+📂 PROJECTS
 
-TOOLS
-VS Code • Git • GitHub
+┌──────────────────────────────────────────────────────────────────────┐
+│ PROJECT 01                                                          │
+├──────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│ 🦷 Sorriso e Saúde                                                   │
+│ Landing page project focused on web development.                    │
+│ STATUS: BUILDING 🟡                                                 │
+└──────────────────────────────────────────────────────────────────────┘
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark">
-</p>🚀 Projects
+┌──────────────────────────────────────────────────────────────────────┐
+│ PROJECT 02                                                          │
+├──────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│ 📱 Ciclo da Mulher                                                   │
+│ Application project developed with Python.                           │
+│ STATUS: DEVELOPMENT 🟢                                              │
+└──────────────────────────────────────────────────────────────────────┘
 
-[01] Personal Projects
-     STATUS: BUILDING 🚧
+📊 GITHUB SYSTEM DATA
 
-[02] Web Development
-     STATUS: LEARNING 📚
+<div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaioo-tech&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaioo-tech&layout=compact&theme=github_dark&hide_border=true"/><br /><img src="https://streak-stats.demolab.com?user=kaioo-tech&theme=github-dark-blue&hide_border=true" /></div>📈 ACTIVITY GRAPH
 
-[03] Future Ideas
-     STATUS: COMING SOON 💡
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=kaioo-tech&theme=github-dark&hide_border=true"/></div>🏆 ACHIEVEMENTS
 
-📊 GitHub Stats
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=kaioo-tech&theme=darkhub&no-frame=true&margin-w=10"/></div>🐍 CONTRIBUTION SNAKE
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kaioo-tech&show_icons=true&theme=github_dark&hide_border=true">  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaioo-tech&layout=compact&theme=github_dark&hide_border=true">
-</p>🔥 Contribution Streak
+<div align="center"><img src="https://raw.githubusercontent.com/kaioo-tech/kaioo-tech/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/></div>🌐 CONNECT WITH ME
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kaioo-tech&theme=github-dark-blue&hide_border=true">
-</p>📈 Activity
+<div align="center"><a href="https://github.com/kaioo-tech">
+<img src="https://img.shields.io/badge/GitHub-kaioo--tech-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a><a href="#">
+<img src="https://img.shields.io/badge/Instagram-Coming%20Soon-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a></div>---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaioo-tech&bg_color=0d1117&color=ffffff&line=888888&point=ffffff&area=true&hide_border=true">
-</p>---
+<div align="center">> SYSTEM MESSAGE:
+> Building today what I want to become tomorrow.
 
-<p align="center">
-  <b>KAIO // DIGITAL JOURNEY</b><br>
-  <sub>BUILD • LEARN • EVOLVE</sub>
-</p>
+⚡ KAIO // BUILD • LEARN • EVOLVE ⚡
+
+</div>
