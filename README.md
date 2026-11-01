@@ -118,31 +118,21 @@ profile:
 <h2 align="center">⟦ 04 · PROJECTS ⟧</h2>
 
 <div align="center">
-<sub>Replace <code>PROJECT-1</code> ... <code>PROJECT-4</code> with your real repository names (they must be public).</sub>
-</div>
-
-<br/>
-
-<div align="center">
 <table>
 <tr>
 <td align="center">
-  <a href="https://github.com/kaioo-tech/calendario-mulher">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=PROJECT-1&theme=transparent&bg_color=0D1117&title_color=FF4D4D&text_color=C9D1D9&icon_color=FF2A2A&border_color=FF2A2A&show_owner=false" alt="Project 1" />
+  <a href="https://github.com/kaioo-tech/Landing-Page">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaioo-tech&repo=Landing-Page&theme=transparent&bg_color=0D1117&title_color=FF4D4D&text_color=C9D1D9&icon_color=FF2A2A&border_color=FF2A2A&show_owner=false" alt="Landing Page" />
   </a>
 </td>
 <td align="center">
-  <a href="https://github.com/kaioo-tech/LandingPage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=PROJECT-2&theme=transparent&bg_color=0D1117&title_color=FF4D4D&text_color=C9D1D9&icon_color=FF2A2A&border_color=B30000&show_owner=false" alt="Project 2" />
+  <a href="https://github.com/kaioo-tech/calendario-mulher">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaioo-tech&repo=calendario-mulher&theme=transparent&bg_color=0D1117&title_color=FF4D4D&text_color=C9D1D9&icon_color=FF2A2A&border_color=B30000&show_owner=false" alt="Calendario Mulher" />
   </a>
 </td>
 </tr>
-<tr>
-<td align="center">
-  <a href="https://github.com/YOUR-USERNAME/PROJECT-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=PROJECT-3&theme=transparent&bg_color=0D1117&title_color=FF4D4D&text_color=C9D1D9&icon_color=FF2A2A&border_color=B30000&show_owner=false" alt="Project 3" />
-  </a>
-
+</table>
+</div>
 <!-- ═════════════ GOALS (TERMINAL) ═════════════ -->
 <h2 align="center">⟦ 05 · CURRENT_GOALS ⟧</h2>
 
