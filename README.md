@@ -240,11 +240,7 @@ One commit at a time.
 <h2 align="center">⟦ 09 · SNAKE.EXE ⟧</h2>
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-snake.svg" />
-  <img alt="Snake contribution animation" src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-snake-dark.svg" width="100%" />
-</picture>
+<img src="./assets/snake.svg" width="100%" alt="Snake.exe" />
 </div>
 
 <br/>
