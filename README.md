@@ -1,42 +1,44 @@
 <!--
 ╔══════════════════════════════════════════════════════════════╗
-║  COMO USAR                                                   ║
-║  1. Substitua SEU-USUARIO pelo seu usuário do GitHub         ║
-║  2. Substitua SEU NOME / SEU-NOME pelo seu nome              ║
-║  3. Ajuste links, projetos (repos) e redes sociais           ║
-║  4. Snake: adicione o arquivo snake.yml em                   ║
-║     .github/workflows/ e rode a Action uma vez               ║
+║  HOW TO USE                                                  ║
+║  1. Replace YOUR-USERNAME with your GitHub username          ║
+║  2. Replace YOUR NAME with your first name (or nickname)     ║
+║  3. Create a folder called "assets" in this repo and upload  ║
+║     your banner image as: assets/banner.png                  ║
+║  4. Replace PROJECT-1..4 with your real repo names           ║
 ╚══════════════════════════════════════════════════════════════╝
 -->
 
 <div align="center">
 
-<!-- ═════════════ BANNER ═════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A3D62,100:00F0FF&height=250&section=header&text=SEU%20NOME&fontSize=70&fontColor=00F0FF&animation=twinkling&fontAlignY=38&desc=//%20DESENVOLVEDOR%20%C2%B7%20ENGENHEIRO%20DE%20SOFTWARE%20%C2%B7%20EXPLORADOR%20DE%20IA&descSize=17&descAlignY=60&descColor=FF00E5" width="100%" alt="Banner" />
+<!-- ═════════════ BANNER (your image) ═════════════ -->
+<img src="./assets/banner.png" width="520" alt="Banner" />
+
+<br/>
 
 <!-- ═════════════ BOOT SEQUENCE ═════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=1200&color=00F0FF&background=0D1117&center=false&vCenter=true&multiline=true&repeat=true&width=620&height=150&lines=%5B+BOOT+%5D+Inicializando+n%C3%BAcleo+neural...;%5B+OK+%5D+++Carregando+m%C3%B3dulos+de+c%C3%B3digo...;%5B+OK+%5D+++Conectando+ao+GitHub+%E2%80%A2+LINK+EST%C3%81VEL;%5B+OK+%5D+++Sincronizando+projetos+e+ideias...;%5B+%E2%9C%94+%5D+++SISTEMA+ONLINE+%E2%80%94+BEM-VINDO%2C+VISITANTE" alt="Boot sequence" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=1200&color=FF2A2A&background=0D1117&center=false&vCenter=true&multiline=true&repeat=true&width=560&height=150&lines=%5B+BOOT+%5D+Starting+system...;%5B+OK+%5D+++Loading+Python+modules...;%5B+OK+%5D+++Connecting+to+GitHub...;%5B+OK+%5D+++Learning+mode%3A+ENABLED;%5B+%E2%9C%94+%5D+++SYSTEM+ONLINE+%E2%80%94+WELCOME%2C+VISITOR" alt="Boot sequence" />
 
 <br/>
 
 <!-- ═════════════ TYPING ANIMATION ═════════════ -->
-<a href="https://github.com/SEU-USUARIO">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3200&pause=900&color=00F0FF&center=true&vCenter=true&width=760&height=60&lines=%3E+Ol%C3%A1%2C+eu+sou+SEU+NOME;%3E+Construo+software+que+pensa+%F0%9F%A7%A0;%3E+Apaixonado+por+IA%2C+automa%C3%A7%C3%A3o+e+c%C3%B3digo+limpo;%3E+Transformando+caf%C3%A9+em+sistemas+%E2%98%95%E2%86%92%F0%9F%92%BB" alt="Typing animation" />
+<a href="https://github.com/YOUR-USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3200&pause=900&color=00F0FF&center=true&vCenter=true&width=760&height=60&lines=%3E+Hi%2C+I'm+YOUR+NAME;%3E+Student+%7C+Python+Learner;%3E+Learning+to+code+every+day+%F0%9F%92%BB;%3E+Future+Computer+Science+student+%F0%9F%8E%93" alt="Typing animation" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&style=for-the-badge&color=00F0FF&labelColor=0D1117&label=ACESSOS" alt="Visualiza&ccedil;&otilde;es" />
-<img src="https://img.shields.io/github/followers/SEU-USUARIO?style=for-the-badge&logo=github&logoColor=00F0FF&label=SEGUIDORES&labelColor=0D1117&color=FF00E5" alt="Seguidores" />
-<img src="https://img.shields.io/github/stars/SEU-USUARIO?style=for-the-badge&logo=githubsponsors&logoColor=00F0FF&label=ESTRELAS&labelColor=0D1117&color=FF00E5" alt="Estrelas" />
+<img src="https://img.shields.io/badge/STATUS-LEARNING-0D1117?style=for-the-badge&labelColor=0D1117&color=FF2A2A" alt="Status" />
+<img src="https://img.shields.io/badge/PYTHON-BEGINNER-0D1117?style=for-the-badge&logo=python&logoColor=00F0FF&labelColor=0D1117&color=00F0FF" alt="Python" />
+<img src="https://img.shields.io/badge/GOAL-STUDY%20IN%20THE%20USA-0D1117?style=for-the-badge&labelColor=0D1117&color=FF2A2A" alt="Goal" />
 
 <br/><br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:FF00E5&height=2" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2A2A,100:00F0FF&height=2" width="100%" alt="" />
 
 </div>
 
-<!-- ═════════════ SOBRE MIM ═════════════ -->
-<h2 align="center">⟦ 01 · SOBRE_MIM ⟧</h2>
+<!-- ═════════════ ABOUT ME ═════════════ -->
+<h2 align="center">⟦ 01 · ABOUT_ME ⟧</h2>
 
 <div align="center">
 <table>
@@ -44,20 +46,19 @@
 <td width="62%" valign="top">
 
 ```yaml
-perfil:
-  nome:        "SEU NOME"
-  funcao:      "Desenvolvedor Full Stack"
-  foco:        ["IA", "Automação", "Web", "Cloud"]
-  status:      "🟢 ONLINE — aberto a novos projetos"
-  idiomas:     ["Português", "Inglês"]
-  filosofia:   "Código limpo, ideias ousadas."
-  lema:        "Aprender → Construir → Compartilhar"
+profile:
+  name:     "YOUR NAME"
+  role:     "Student & beginner programmer"
+  country:  "Brazil 🇧🇷"
+  learning: ["Python", "Git & GitHub", "English", "Math"]
+  goal:     "Study Computer Science in the USA"
+  motto:    "Learn → Build → Share"
 ```
 
 </td>
 <td width="38%" align="center" valign="middle">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=700&color=FF00E5&center=true&vCenter=true&multiline=true&repeat=true&width=260&height=120&lines=%F0%9F%A7%A0+Neural+Core%3A+ATIVO;%E2%9A%A1+Energia%3A+100%25;%F0%9F%9B%B0%EF%B8%8F+Conex%C3%A3o%3A+EST%C3%81VEL;%F0%9F%9A%80+Miss%C3%A3o%3A+CRIAR+O+FUTURO" alt="Status do sistema" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=700&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=260&height=120&lines=%F0%9F%A7%A0+Brain%3A+LEARNING;%E2%9A%A1+Energy%3A+100%25;%F0%9F%90%8D+Language%3A+Python;%F0%9F%9A%80+Mission%3A+KEEP+BUILDING" alt="System status" />
 
 </td>
 </tr>
@@ -67,7 +68,7 @@ perfil:
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,100:00F0FF&height=2" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:FF2A2A&height=2" width="100%" alt="" />
 </div>
 
 <!-- ═════════════ TECH STACK ═════════════ -->
@@ -75,60 +76,44 @@ perfil:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LINGUAGENS-0D1117?style=for-the-badge&labelColor=0D1117&color=00F0FF" alt="Linguagens" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=py,js,ts,java,cs,go,rust,php,bash&theme=dark" alt="Linguagens" />
+<img src="https://img.shields.io/badge/I_USE-0D1117?style=for-the-badge&labelColor=0D1117&color=FF2A2A" alt="I use" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=py,git,github,vscode&theme=dark" alt="Skills I use" />
 
 <br/><br/>
-<img src="https://img.shields.io/badge/FRONTEND-0D1117?style=for-the-badge&labelColor=0D1117&color=FF00E5" alt="Frontend" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,tailwind,vite,sass&theme=dark" alt="Frontend" />
-
-<br/><br/>
-<img src="https://img.shields.io/badge/BACKEND_&_DADOS-0D1117?style=for-the-badge&labelColor=0D1117&color=00F0FF" alt="Backend" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,postgres,mysql,mongodb,redis,prisma&theme=dark" alt="Backend" />
-
-<br/><br/>
-<img src="https://img.shields.io/badge/CLOUD_&_DEVOPS-0D1117?style=for-the-badge&labelColor=0D1117&color=FF00E5" alt="Cloud" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,linux,nginx,githubactions,vercel&theme=dark" alt="Cloud" />
-
-<br/><br/>
-<img src="https://img.shields.io/badge/IA_&_DATA-0D1117?style=for-the-badge&labelColor=0D1117&color=00F0FF" alt="IA" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy,jupyter&theme=dark" alt="IA e Data" />
+<img src="https://img.shields.io/badge/LEARNING_NEXT-0D1117?style=for-the-badge&labelColor=0D1117&color=00F0FF" alt="Learning next" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,linux&theme=dark" alt="Learning next" />
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:FF00E5&height=2" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2A2A,100:00F0FF&height=2" width="100%" alt="" />
 </div>
 
-<!-- ═════════════ FERRAMENTAS ═════════════ -->
-<h2 align="center">⟦ 03 · FERRAMENTAS ⟧</h2>
+<!-- ═════════════ TOOLS ═════════════ -->
+<h2 align="center">⟦ 03 · TOOLS ⟧</h2>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,notion,obsidian,vim,idea,pycharm,linux,ubuntu&theme=dark" alt="Ferramentas" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Claude-IA%20Assistente-0D1117?style=for-the-badge&logo=anthropic&logoColor=00F0FF&labelColor=0D1117&color=00F0FF" alt="Claude" />
-<img src="https://img.shields.io/badge/GitHub%20Copilot-Pair%20Programming-0D1117?style=for-the-badge&logo=githubcopilot&logoColor=FF00E5&labelColor=0D1117&color=FF00E5" alt="Copilot" />
-<img src="https://img.shields.io/badge/Terminal-Zsh-0D1117?style=for-the-badge&logo=gnubash&logoColor=00F0FF&labelColor=0D1117&color=00F0FF" alt="Terminal" />
-<img src="https://img.shields.io/badge/Postman-API%20Testing-0D1117?style=for-the-badge&logo=postman&logoColor=FF00E5&labelColor=0D1117&color=FF00E5" alt="Postman" />
+<img src="https://img.shields.io/badge/VS%20Code-Editor-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00F0FF&labelColor=0D1117&color=00F0FF" alt="VS Code" />
+<img src="https://img.shields.io/badge/Git-Version%20Control-0D1117?style=for-the-badge&logo=git&logoColor=FF2A2A&labelColor=0D1117&color=FF2A2A" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-Projects-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0D1117&color=00F0FF" alt="GitHub" />
+<img src="https://img.shields.io/badge/Claude-AI%20Helper-0D1117?style=for-the-badge&logo=anthropic&logoColor=FF2A2A&labelColor=0D1117&color=FF2A2A" alt="Claude" />
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,100:00F0FF&height=2" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:FF2A2A&height=2" width="100%" alt="" />
 </div>
 
-<!-- ═════════════ PROJETOS ═════════════ -->
-<h2 align="center">⟦ 04 · PROJETOS_EM_DESTAQUE ⟧</h2>
+<!-- ═════════════ PROJECTS ═════════════ -->
+<h2 align="center">⟦ 04 · PROJECTS ⟧</h2>
 
 <div align="center">
-<sub>Troque <code>repo=</code> pelo nome exato dos seus repositórios (público).</sub>
+<sub>Replace <code>PROJECT-1</code> ... <code>PROJECT-4</code> with your real repository names (they must be public).</sub>
 </div>
 
 <br/>
@@ -137,25 +122,25 @@ perfil:
 <table>
 <tr>
 <td align="center">
-  <a href="https://github.com/SEU-USUARIO/PROJETO-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=PROJETO-1&theme=transparent&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=FF00E5&border_color=00F0FF&show_owner=false" alt="Projeto 1" />
+  <a href="https://github.com/YOUR-USERNAME/PROJECT-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=PROJECT-1&theme=transparent&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=FF2A2A&border_color=FF2A2A&show_owner=false" alt="Project 1" />
   </a>
 </td>
 <td align="center">
-  <a href="https://github.com/SEU-USUARIO/PROJETO-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=PROJETO-2&theme=transparent&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=FF00E5&border_color=FF00E5&show_owner=false" alt="Projeto 2" />
+  <a href="https://github.com/YOUR-USERNAME/PROJECT-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=PROJECT-2&theme=transparent&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=FF2A2A&border_color=00F0FF&show_owner=false" alt="Project 2" />
   </a>
 </td>
 </tr>
 <tr>
 <td align="center">
-  <a href="https://github.com/SEU-USUARIO/PROJETO-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=PROJETO-3&theme=transparent&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=FF00E5&border_color=FF00E5&show_owner=false" alt="Projeto 3" />
+  <a href="https://github.com/YOUR-USERNAME/PROJECT-3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=PROJECT-3&theme=transparent&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=FF2A2A&border_color=00F0FF&show_owner=false" alt="Project 3" />
   </a>
 </td>
 <td align="center">
-  <a href="https://github.com/SEU-USUARIO/PROJETO-4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=PROJETO-4&theme=transparent&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=FF00E5&border_color=00F0FF&show_owner=false" alt="Projeto 4" />
+  <a href="https://github.com/YOUR-USERNAME/PROJECT-4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=PROJECT-4&theme=transparent&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=FF2A2A&border_color=FF2A2A&show_owner=false" alt="Project 4" />
   </a>
 </td>
 </tr>
@@ -165,77 +150,80 @@ perfil:
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:FF00E5&height=2" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2A2A,100:00F0FF&height=2" width="100%" alt="" />
 </div>
 
-<!-- ═════════════ OBJETIVOS (TERMINAL) ═════════════ -->
-<h2 align="center">⟦ 05 · OBJETIVOS_ATUAIS ⟧</h2>
+<!-- ═════════════ GOALS (TERMINAL) ═════════════ -->
+<h2 align="center">⟦ 05 · CURRENT_GOALS ⟧</h2>
 
 ```bash
-┌──(visitante㉿sistema)-[~/objetivos]
+┌──(visitor㉿system)-[~/goals]
 └─$ ./status.sh --verbose
 
-[ SYSTEM ] Carregando objetivos ativos...
+[ SYSTEM ] Loading active goals...
 
- ▸ [██████████] 100%  Dominar fundamentos de Git, Linux e APIs REST    ✔ CONCLUÍDO
- ▸ [████████░░]  80%  Construir projetos full stack com TypeScript     ⚙ EM ANDAMENTO
- ▸ [██████░░░░]  60%  Aprofundar em IA, LLMs e automação de fluxos     ⚙ EM ANDAMENTO
- ▸ [████░░░░░░]  40%  Cloud & DevOps (Docker, CI/CD, AWS)              ⚙ EM ANDAMENTO
- ▸ [██░░░░░░░░]  20%  Contribuir com projetos open source              ⏳ PRÓXIMO
- ▸ [░░░░░░░░░░]   0%  Lançar um produto SaaS próprio                   🎯 META
+ ▸ [██████░░░░]  60%  Learn Python fundamentals                 ⚙ IN PROGRESS
+ ▸ [███░░░░░░░]  30%  Learn Git & GitHub                        ⚙ IN PROGRESS
+ ▸ [███░░░░░░░]  30%  Improve my English every day              ⚙ IN PROGRESS
+ ▸ [█░░░░░░░░░]  10%  Build my first 3 projects                 ⏳ NEXT
+ ▸ [░░░░░░░░░░]   0%  Take a free course (CS50 / Khan Academy)  ⏳ NEXT
+ ▸ [░░░░░░░░░░]   0%  Study Computer Science in the USA         🎯 MAIN GOAL
 
-┌──(visitante㉿sistema)-[~/objetivos]
-└─$ echo "Evoluindo todos os dias." && sleep ∞
-Evoluindo todos os dias.
+┌──(visitor㉿system)-[~/goals]
+└─$ echo "One commit at a time."
+One commit at a time.
 █
 ```
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,100:00F0FF&height=2" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:FF2A2A&height=2" width="100%" alt="" />
 </div>
 
 <!-- ═════════════ GITHUB STATS ═════════════ -->
-<h2 align="center">⟦ 06 · TELEMETRIA_GITHUB ⟧</h2>
+<h2 align="center">⟦ 06 · GITHUB_STATS ⟧</h2>
 
 <div align="center">
 <table>
 <tr>
 <td align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&theme=transparent&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=FF00E5&ring_color=00F0FF&border_color=00F0FF&rank_icon=github" alt="GitHub Stats" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=false&include_all_commits=true&theme=transparent&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=FF2A2A&ring_color=FF2A2A&border_color=FF2A2A&rank_icon=github" alt="GitHub Stats" />
 </td>
 <td align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=8&hide_border=false&theme=transparent&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&border_color=FF00E5" alt="Top Languages" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&langs_count=6&hide_border=false&theme=transparent&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&border_color=00F0FF" alt="Top Languages" />
 </td>
 </tr>
 </table>
 
-<img width="100%" src="https://streak-stats.demolab.com/?user=SEU-USUARIO&theme=transparent&background=0D1117&border=00F0FF&stroke=FF00E5&ring=00F0FF&fire=FF00E5&currStreakNum=00F0FF&sideNums=FFFFFF&currStreakLabel=00F0FF&sideLabels=C9D1D9&dates=8B949E&hide_border=false" alt="GitHub Streak" />
+<img width="100%" src="https://streak-stats.demolab.com/?user=YOUR-USERNAME&theme=transparent&background=0D1117&border=FF2A2A&stroke=00F0FF&ring=FF2A2A&fire=FF2A2A&currStreakNum=00F0FF&sideNums=FFFFFF&currStreakLabel=00F0FF&sideLabels=C9D1D9&dates=8B949E&hide_border=false" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&bg_color=0D1117&color=00F0FF&line=FF00E5&point=FFFFFF&area=true&area_color=00F0FF&hide_border=true&radius=10&custom_title=Gr%C3%A1fico%20de%20Atividade%20%E2%80%A2%20Contribui%C3%A7%C3%B5es" alt="Activity Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&bg_color=0D1117&color=00F0FF&line=FF2A2A&point=FFFFFF&area=true&area_color=FF2A2A&hide_border=true&radius=10&custom_title=Contribution%20Graph" alt="Activity Graph" />
+
+<br/>
+<sub>📈 Empty at first? Totally normal. Every commit makes it grow.</sub>
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:FF00E5&height=2" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2A2A,100:00F0FF&height=2" width="100%" alt="" />
 </div>
 
-<!-- ═════════════ TROFÉUS ═════════════ -->
-<h2 align="center">⟦ 07 · CONQUISTAS ⟧</h2>
+<!-- ═════════════ TROPHIES ═════════════ -->
+<h2 align="center">⟦ 07 · ACHIEVEMENTS ⟧</h2>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&row=1" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&row=1" alt="GitHub Trophies" />
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,100:00F0FF&height=2" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:FF2A2A&height=2" width="100%" alt="" />
 </div>
 
 <!-- ═════════════ SNAKE ═════════════ -->
@@ -243,42 +231,38 @@ Evoluindo todos os dias.
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-snake.svg" />
-  <img alt="Snake contribution animation" src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-snake.svg" />
+  <img alt="Snake contribution animation" src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-snake-dark.svg" width="100%" />
 </picture>
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:FF00E5&height=2" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2A2A,100:00F0FF&height=2" width="100%" alt="" />
 </div>
 
-<!-- ═════════════ REDES SOCIAIS ═════════════ -->
-<h2 align="center">⟦ 09 · CANAIS_DE_COMUNICAÇÃO ⟧</h2>
+<!-- ═════════════ SOCIAL ═════════════ -->
+<h2 align="center">⟦ 09 · CONNECT ⟧</h2>
 
 <div align="center">
 
-<a href="https://linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=0D1117&color=00F0FF" alt="LinkedIn" /></a>
-<a href="https://instagram.com/SEU-USUARIO"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FF00E5&labelColor=0D1117&color=FF00E5" alt="Instagram" /></a>
-<a href="https://discord.com/users/SEU-ID"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=00F0FF&labelColor=0D1117&color=00F0FF" alt="Discord" /></a>
-<a href="https://youtube.com/@SEU-CANAL"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=FF00E5&labelColor=0D1117&color=FF00E5" alt="YouTube" /></a>
-<a href="https://x.com/SEU-USUARIO"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=00F0FF&labelColor=0D1117&color=00F0FF" alt="X" /></a>
-<a href="mailto:seu@email.com"><img src="https://img.shields.io/badge/E--mail-0D1117?style=for-the-badge&logo=gmail&logoColor=FF00E5&labelColor=0D1117&color=FF00E5" alt="E-mail" /></a>
-<a href="https://seu-portfolio.com"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00F0FF&labelColor=0D1117&color=00F0FF" alt="Portfólio" /></a>
+<a href="https://github.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0D1117&color=00F0FF" alt="GitHub" /></a>
+
+<!-- Add more later (LinkedIn, etc.). Tip: avoid putting phone, address or school here. -->
 
 </div>
 
 <br/>
 
-<!-- ═════════════ RODAPÉ ═════════════ -->
+<!-- ═════════════ FOOTER ═════════════ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3500&pause=1500&color=8B949E&center=true&vCenter=true&width=620&height=30&lines=%3E+Obrigado+por+visitar+meu+perfil.;%3E+Vamos+construir+algo+incr%C3%ADvel+juntos%3F;%3E+Encerrando+sess%C3%A3o...+at%C3%A9+a+pr%C3%B3xima.+%F0%9F%91%8B" alt="Rodapé" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3500&pause=1500&color=8B949E&center=true&vCenter=true&width=620&height=30&lines=%3E+Thanks+for+visiting+my+profile.;%3E+Still+learning.+Still+building.;%3E+See+you+in+the+next+commit.+%F0%9F%91%8B" alt="Footer" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:0A3D62,100:0D1117&height=140&section=footer&text=%C2%AB%20SYSTEM%20OFFLINE%20%C2%BB&fontSize=22&fontColor=00F0FF&animation=fadeIn&fontAlignY=72" width="100%" alt="Rodapé" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7A0000,100:0D1117&height=140&section=footer&text=%C2%AB%20SYSTEM%20ONLINE%20%C2%BB&fontSize=22&fontColor=FF2A2A&animation=fadeIn&fontAlignY=72" width="100%" alt="Footer" />
 
-<sub>⚡ Feito com código, café e curiosidade • © 2026 SEU NOME</sub>
+<sub>⚡ Made with code, coffee and curiosity • © 2026 YOUR NAME</sub>
 
 </div>
