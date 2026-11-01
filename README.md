@@ -127,12 +127,12 @@ profile:
 <table>
 <tr>
 <td align="center">
-  <a href="https://github.com/YOUR-USERNAME/PROJECT-1">
+  <a href="https://github.com/kaioo-tech/calendario-mulher">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=PROJECT-1&theme=transparent&bg_color=0D1117&title_color=FF4D4D&text_color=C9D1D9&icon_color=FF2A2A&border_color=FF2A2A&show_owner=false" alt="Project 1" />
   </a>
 </td>
 <td align="center">
-  <a href="https://github.com/YOUR-USERNAME/PROJECT-2">
+  <a href="https://github.com/kaioo-tech/LandingPage">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=PROJECT-2&theme=transparent&bg_color=0D1117&title_color=FF4D4D&text_color=C9D1D9&icon_color=FF2A2A&border_color=B30000&show_owner=false" alt="Project 2" />
   </a>
 </td>
@@ -142,21 +142,6 @@ profile:
   <a href="https://github.com/YOUR-USERNAME/PROJECT-3">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=PROJECT-3&theme=transparent&bg_color=0D1117&title_color=FF4D4D&text_color=C9D1D9&icon_color=FF2A2A&border_color=B30000&show_owner=false" alt="Project 3" />
   </a>
-</td>
-<td align="center">
-  <a href="https://github.com/YOUR-USERNAME/PROJECT-4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=PROJECT-4&theme=transparent&bg_color=0D1117&title_color=FF4D4D&text_color=C9D1D9&icon_color=FF2A2A&border_color=FF2A2A&show_owner=false" alt="Project 4" />
-  </a>
-</td>
-</tr>
-</table>
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2A2A,100:7A0000&height=2" width="100%" alt="" />
-</div>
 
 <!-- ═════════════ GOALS (TERMINAL) ═════════════ -->
 <h2 align="center">⟦ 05 · CURRENT_GOALS ⟧</h2>
