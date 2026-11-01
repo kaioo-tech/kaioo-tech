@@ -131,9 +131,6 @@ profile:
 <h2 align="center">⟦ 05 · CURRENT_GOALS ⟧</h2>
 
 ```bash
-┌──(visitor㉿system)-[~/goals]
-└─$ ./status.sh --verbose
-
 [ SYSTEM ] Loading active goals...
 
  ▸ [██████░░░░]  60%  Learn Python fundamentals                 ⚙ IN PROGRESS
@@ -143,10 +140,6 @@ profile:
  ▸ [░░░░░░░░░░]   0%  Take a free course (CS50 / Khan Academy)  ⏳ NEXT
  ▸ [░░░░░░░░░░]   0%  Study Computer Science in the USA         🎯 MAIN GOAL
 
-┌──(visitor㉿system)-[~/goals]
-└─$ echo "One commit at a time."
-One commit at a time.
-█
 ```
 
 <br/>
