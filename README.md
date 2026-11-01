@@ -5,18 +5,22 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=18&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=700&lines=%5B+SYSTEM+BOOTING...+%5D;%E2%9C%93+Identity%3A+KAIO;%E2%9C%93+Status%3A+ONLINE;%E2%9C%93+Mission%3A+BUILDING+THE+FUTURE+WITH+TECHNOLOGY;%3E_+Welcome+to+my+GitHub+profile." />
 </p><br />⚡ KAIO // DIGITAL PROFILE
 
-╔════════════════════════════════════╗
-║           SYSTEM STATUS            ║
-╠════════════════════════════════════╣
-║ USER     : KAIO                    ║
-║ LOCATION : BRAZIL 🇧🇷               ║
-║ ROLE     : STUDENT                 ║
-║ STATUS   : ONLINE                  ║
-║                                    ║
-║ MISSION                            ║
-║ BUILD • LEARN • EVOLVE             ║
-╚════════════════════════════════════╝
-
+```text
+┌──────────────────────────┐
+│      SYSTEM STATUS       │
+├──────────────────────────┤
+│ USER: KAIO               │
+│                          │
+│ LOCATION: BRAZIL 🇧🇷      │
+│                          │
+│ ROLE: STUDENT            │
+│                          │
+│ STATUS: ONLINE           │
+│                          │
+│ MISSION:                 │
+│ BUILD • LEARN • EVOLVE   │
+└──────────────────────────┘
+``
 ---
 
 🧠 ABOUT_ME.exe
