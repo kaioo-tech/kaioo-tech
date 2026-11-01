@@ -17,7 +17,7 @@
 <div align="center">
 
 <!-- ═════════════ BANNER (your image) ═════════════ -->
-<img src="./assets/banner.png" width="520" alt="Banner" />
+<img src="./assets/ギ.jpg" width="520" alt="Banner" />
 
 <br/>
 
