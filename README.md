@@ -6,20 +6,17 @@
 </p><br />⚡ KAIO // DIGITAL PROFILE
 
 ```text
-┌──────────────────────────┐
-│      SYSTEM STATUS       │
-├──────────────────────────┤
-│ USER: KAIO               │
-│                          │
-│ LOCATION: BRAZIL 🇧🇷      │
-│                          │
-│ ROLE: STUDENT            │
-│                          │
-│ STATUS: ONLINE           │
-│                          │
-│ MISSION:                 │
-│ BUILD • LEARN • EVOLVE   │
-└──────────────────────────┘
+┌──────────────────────────────────────┐
+│            SYSTEM STATUS             │
+├──────────────────────────────────────┤
+│ USER       : KAIO                    │
+│ LOCATION   : BRAZIL 🇧🇷               │
+│ ROLE       : STUDENT                 │
+│ STATUS     : ONLINE                  │
+│                                      │
+│ MISSION                              │
+│ BUILD • LEARN • EVOLVE               │
+└──────────────────────────────────────┘
 ``
 ---
 
