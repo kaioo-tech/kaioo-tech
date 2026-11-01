@@ -118,20 +118,14 @@ profile:
 <h2 align="center">⟦ 04 · PROJECTS ⟧</h2>
 
 <div align="center">
-<table>
-<tr>
-<td align="center">
-  <a href="https://github.com/kaioo-tech/LandingPage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaioo-tech&repo=Landing-Page&theme=transparent&bg_color=0D1117&title_color=FF4D4D&text_color=C9D1D9&icon_color=FF2A2A&border_color=FF2A2A&show_owner=false" alt="Landing Page" />
-  </a>
-</td>
-<td align="center">
-  <a href="https://github.com/kaioo-tech/calendario-mulher">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaioo-tech&repo=calendario-mulher&theme=transparent&bg_color=0D1117&title_color=FF4D4D&text_color=C9D1D9&icon_color=FF2A2A&border_color=B30000&show_owner=false" alt="Calendario Mulher" />
-  </a>
-</td>
-</tr>
-</table>
+
+<a href="https://github.com/kaioo-tech/Landing-Page">
+  <img src="https://img.shields.io/badge/PROJECT-LANDING%20PAGE-0D1117?style=for-the-badge&logo=github&logoColor=FF5C5C&labelColor=0D1117&color=FF2A2A" alt="Landing Page" />
+</a>
+<a href="https://github.com/kaioo-tech/calendario-mulher">
+  <img src="https://img.shields.io/badge/PROJECT-CALENDARIO%20MULHER-0D1117?style=for-the-badge&logo=github&logoColor=FF5C5C&labelColor=0D1117&color=B30000" alt="Calendario Mulher" />
+</a>
+
 </div>
 <!-- ═════════════ GOALS (TERMINAL) ═════════════ -->
 <h2 align="center">⟦ 05 · CURRENT_GOALS ⟧</h2>
