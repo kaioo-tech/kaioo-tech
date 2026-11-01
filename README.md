@@ -119,7 +119,7 @@ profile:
 
 <div align="center">
 
-<a href="https://github.com/kaioo-tech/Landing-Page">
+<a href="https://github.com/kaioo-tech/LandingPage">
   <img src="https://img.shields.io/badge/PROJECT-LANDING%20PAGE-0D1117?style=for-the-badge&logo=github&logoColor=FF5C5C&labelColor=0D1117&color=FF2A2A" alt="Landing Page" />
 </a>
 <a href="https://github.com/kaioo-tech/calendario-mulher">
